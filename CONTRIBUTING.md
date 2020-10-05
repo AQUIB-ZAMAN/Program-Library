@@ -11,3 +11,4 @@
 ✅Folder names should be in snake_case style<br>
 ✅Rebasing should be done if not coding in master branch<br>
 ✅One PR should include code for only one issue<br>
+✅Create proper language folder and contribute your valuable work there.
